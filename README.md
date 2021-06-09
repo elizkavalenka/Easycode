@@ -1,6 +1,6 @@
 # Easycode
-
-This is a landing page made with HTML and CSS.
+Easycode is a platform with educational courses. 
+Platform landing page was made with HTML and CSS.
 
 ![Screen](/img/EasycodeScreen1.png)
 
